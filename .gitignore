@@ -1,0 +1,13 @@
+# Backend
+backend/target/
+.idea/
+*.iml
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Credenziali e file locali
+.env
+application-local.properties
+.DS_Store
